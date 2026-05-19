@@ -1,7 +1,7 @@
 ---
 id: lanier-level
 name: Lake Lanier Level
-summary: Live water level for Lake Lanier, GA
+summary: Lake Lanier water level
 desc: Displays the current water level of Lake Lanier relative to full pool (1,071 ft), along with water temperature, a rising/falling trend indicator, and an animated wave surface. Alert zone is color-coded green/yellow/amber/red/blue by how far below full pool the lake is. Data sourced from the USGS gauge via lanierlevel.com, refreshed hourly.
 author: jspeigner
 fileName: lanier_level.star
